@@ -1,0 +1,3 @@
+https://www.python.org - Site do python para baixar o instalador
+
+https://replit.com - Site onde podemos utilizar o python e outras linguagens sem precisar realizar a instalação na máquina.
