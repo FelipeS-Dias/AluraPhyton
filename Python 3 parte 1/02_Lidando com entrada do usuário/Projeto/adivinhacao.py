@@ -9,7 +9,7 @@ print("Você digitou ", chute)
 
 # A função input sempre retorna um texto (string). Sendo assim, é necessário converter o valor retornado em inteiro,
 # para que a comparação com outro inteiro, no caso o numero_secreto, seja possível:
-# Realizado a criação da variável "digito" para que receba o valor da conversão
+# Realizado a criação da variável "digito" para que receba o valor da conversão.
 digito = int(chute)
 
 if(digito == numero_secreto):
