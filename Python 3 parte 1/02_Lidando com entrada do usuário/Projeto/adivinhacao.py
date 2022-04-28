@@ -9,7 +9,7 @@ numero_de_tentativas = 5
 
 while(rodada <= numero_de_tentativas):
 
-    print("Tentativa", rodada, "de", numero_de_tentativas)
+    print("Tentativa {} de {}" .format(rodada, numero_de_tentativas))
     chute = input("Digite um número: ")
     print("Você digitou ", chute)
     # A função input sempre retorna um texto (string). Sendo assim, é necessário converter o valor retornado em inteiro,
