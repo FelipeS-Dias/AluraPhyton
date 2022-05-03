@@ -1,6 +1,6 @@
-print("____________")
+print("------------")
 print("Atividade 03")
-print("____________")
+print("------------")
 
 idade_str = input("Digite sua idade: ")
 idade = int(idade_str)

@@ -1,6 +1,6 @@
-print("____________")
+print("------------")
 print("Atividade 01")
-print("____________")
+print("------------")
 
 minha_idade = 25
 idade_namorado = 26

@@ -1,6 +1,6 @@
-print("____________")
+print("------------")
 print("Atividade 07")
-print("____________")
+print("------------")
 
 dia_ini = 24
 dia_fim = 28

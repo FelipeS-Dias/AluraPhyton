@@ -1,6 +1,6 @@
-print("____________")
+print("------------")
 print("Atividade 02")
-print("____________")
+print("------------")
 
 numero1 = 10
 numero2 = 10

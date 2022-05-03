@@ -1,6 +1,6 @@
-print("____________")
+print("------------")
 print("Atividade 05")
-print("____________")
+print("------------")
 
 usuario = input("Informe o usuário do sistema: ")
 

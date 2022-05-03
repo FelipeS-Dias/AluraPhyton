@@ -1,6 +1,6 @@
-print("____________")
+print("------------")
 print("Atividade 06")
-print("____________")
+print("------------")
 
 contador = 1
 
